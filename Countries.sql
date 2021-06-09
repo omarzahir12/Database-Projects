@@ -6,7 +6,7 @@
  */
 
 CREATE TABLE countries(
-   name                    TEXT PRIMARY KEY,
+   name                    TEXT,
    population              INTEGER,
    percent_one_year_change REAL,
    population_change       INTEGER,
@@ -218,5 +218,12 @@ INSERT INTO countries(name,population,percent_one_year_change,population_change,
 INSERT INTO countries(name,population,percent_one_year_change,population_change,density_per_sq_km,area_sq_km,net_migrants,fertility_rate,median_age,percent_of_world_pop) VALUES ('U.S. Virgin Islands',104425,-0.15,-153,298,350,-451,2.00,43.00,0);
 INSERT INTO countries(name,population,percent_one_year_change,population_change,density_per_sq_km,area_sq_km,net_migrants,fertility_rate,median_age,percent_of_world_pop) VALUES ('Seychelles',98347,0.62,608,214,460,-200,2.50,34.00,0);
 INSERT INTO countries(name,population,percent_one_year_change,population_change,density_per_sq_km,area_sq_km,net_migrants,fertility_rate,median_age,percent_of_world_pop) VALUES ('Antigua and Barbuda',97929,0.84,811,223,440,0,2.00,34.00,0);
-
+ 
+/* All countries */
 SELECT * FROM countries;
+
+/* All Data */
+SELECT NAME FROM countries WHERE POPULATION > 200000000;
+
+/* Fertility Rate */
+SELECT name, fertility_rate FROM countries WHERE fertility_rate >= 2 ORDER BY fertility_rate DESC;
