@@ -1,0 +1,10 @@
+C:\Users\default user.DESKTOP-N8QVAOP\Desktop\Github Repositories\Database Projects\Test Database 1\Database Solution 1\Database 1\bin\Debug\Database 1.dacpac
+C:\Users\default user.DESKTOP-N8QVAOP\Desktop\Github Repositories\Database Projects\Test Database 1\Database Solution 1\Database 1\bin\Debug\Database_1.dll
+C:\Users\default user.DESKTOP-N8QVAOP\Desktop\Github Repositories\Database Projects\Test Database 1\Database Solution 1\Database 1\bin\Debug\Database_1.pdb
+C:\Users\default user.DESKTOP-N8QVAOP\Desktop\Github Repositories\Database Projects\Test Database 1\Database Solution 1\Database 1\obj\Debug\Database 1.sqlproj.AssemblyReference.cache
+C:\Users\default user.DESKTOP-N8QVAOP\Desktop\Github Repositories\Database Projects\Test Database 1\Database Solution 1\Database 1\obj\Debug\Database_1.dll
+C:\Users\default user.DESKTOP-N8QVAOP\Desktop\Github Repositories\Database Projects\Test Database 1\Database Solution 1\Database 1\obj\Debug\Database_1.pdb
+C:\Users\default user.DESKTOP-N8QVAOP\Desktop\Github Repositories\Database Projects\Test Database 1\Database Solution 1\Database 1\obj\Debug\Model.xml
+C:\Users\default user.DESKTOP-N8QVAOP\Desktop\Github Repositories\Database Projects\Test Database 1\Database Solution 1\Database 1\obj\Debug\refactor.xml
+C:\Users\default user.DESKTOP-N8QVAOP\Desktop\Github Repositories\Database Projects\Test Database 1\Database Solution 1\Database 1\obj\Debug\postdeploy.sql
+C:\Users\default user.DESKTOP-N8QVAOP\Desktop\Github Repositories\Database Projects\Test Database 1\Database Solution 1\Database 1\obj\Debug\predeploy.sql
